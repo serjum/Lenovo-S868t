@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?> 
+<map> 
+<boolean name="pref_lockscreen_wallpaper_on" value="false" /> 
+<boolean name="pref_lockscreen_lenovo_on" value="true" /> 
+<boolean name="lockscreen_show_carrier" value="true" />
+<boolean name="lockscreen_show_emergencycall" value="true" />
+</map> 
